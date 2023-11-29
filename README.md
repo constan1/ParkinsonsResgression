@@ -5,4 +5,4 @@ Early onset Parkinson's prediction is often difficult to diagnose. But a compreh
 
 <h2>Demo</h2>
 Here is the provided demo
-https://youtu.be/vQvOa3E9svY 
+https://youtu.be/vQvOa3E9svY
